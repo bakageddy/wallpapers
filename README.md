@@ -33,4 +33,3 @@
 ![image](moonCatpuccin.png)
 ![image](gruvboxPlatform.jpg)
 ![image](gruvboxLady.png)
-![image](script.py)
