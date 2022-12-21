@@ -1,5 +1,4 @@
 # Images:
-![image](animeCoffeeGirl.png)
 ![image](animeMoon.jpg)
 ![image](cometBlueDigitalArt.jpg)
 ![image](draculaDoodle.jpg)
@@ -34,3 +33,7 @@
 ![image](gruvboxPlatform.jpg)
 ![image](gruvboxLady.png)
 ![image](Sakura.png)
+![image](gruvboxAnimeLight.png)
+![image](nordAnimeGirl.png)
+![image](gruvboxSkull.jpg)
+![image](gruvboxGundam.png)
