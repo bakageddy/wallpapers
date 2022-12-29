@@ -37,3 +37,8 @@
 ![image](nordAnimeGirl.png)
 ![image](gruvboxSkull.jpg)
 ![image](gruvboxGundam.png)
+![image](gruvboxSatellite.jpg)
+![image](monochromeShootingToTheMoon.png)
+![image](mountainNight.png)
+![image](gruvboxNoMansSky.jpg)
+![image](miscSpaceRecords.png)
