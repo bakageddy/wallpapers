@@ -43,3 +43,7 @@
 ![image](gruvboxNoMansSky.jpg)
 ![image](miscSpaceRecords.png)
 ![image](nordAstroOcean.png)
+![image](gruvboxSkullRed.png)
+![image](gruvboxWindRises.jpg)
+![image](spyXFamily.jpg)
+![image](nezukoMobile.jpg)
