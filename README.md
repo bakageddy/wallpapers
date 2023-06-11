@@ -48,3 +48,6 @@
 ![image](spyXFamily.jpg)
 ![image](nezukoMobile.jpg)
 ![image](world.jpg)
+![image](kanagawaUFO.jpeg)
+![image](kanagawaArch.png)
+![image](redGyrados.png)
